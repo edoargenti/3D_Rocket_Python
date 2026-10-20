@@ -1,2 +1,2 @@
 # Python_Projects
-In this repository thre are all my python projects
+I used this code to build a 3D rocket that stats from the surface of a planet and reaches orbit.  
